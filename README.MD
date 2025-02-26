@@ -28,7 +28,7 @@ LocalStorage → Armazenamento de transações
 
 Baixe ou clone este repositório:
 
-git clone https://github.com/seu-usuario/despesas.git
+git clone https://github.com/isaacmacb/despesas
 
 Abra o arquivo index.html no navegador.
 
