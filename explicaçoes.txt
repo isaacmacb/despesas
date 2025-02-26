@@ -6,4 +6,4 @@ que permite que dados sejam salvos diretamente no navegador.
 -- localStorage.getItem("transactions") retorna os dados que você armazenou anteriormente com localStorage.setItem()
 JSON.parse converte uma string JSON em um objeto JavaScript.
 
--- !== que significa estritamente não igual que retorna true caso os operandos não sejam iguais e/ou não sejam do mesmo tipo
+-- !                                                                                                                                                        == que significa estritamente não igual que retorna true caso os operandos não sejam iguais e/ou não sejam do mesmo tipo
