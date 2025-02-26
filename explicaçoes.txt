@@ -1,0 +1,9 @@
+-- querySelector é um método do js, que seleciona tanto o id (#) como class (.classe)
+
+-- O local storage é uma forma de armazenamento de dados persistente, ou seja, os dados não serão deletados se o navegador for fechado, 
+que permite que dados sejam salvos diretamente no navegador.
+
+-- localStorage.getItem("transactions") retorna os dados que você armazenou anteriormente com localStorage.setItem()
+JSON.parse converte uma string JSON em um objeto JavaScript.
+
+-- !== que significa estritamente não igual que retorna true caso os operandos não sejam iguais e/ou não sejam do mesmo tipo
